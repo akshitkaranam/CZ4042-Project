@@ -1,4 +1,4 @@
-# CZ4042-Project
+# CZ4042 Speech Emotion Recognition
 
 There are 2 python notebooks:
 
