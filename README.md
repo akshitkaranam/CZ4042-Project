@@ -19,4 +19,6 @@ The data folder cannot be uploaded as it is too large, instead here is the link 
 
 The data folder contains data essential for retraining the model. To retrain the model, run the ‘ Load Data -> Using MFCC + RMS + ZCR -> Data Preprocess’ to load X_train , Y_train and Y_train_new (one-hot encoded)
 
-To run the real-time run all the cells till the last one. Please ensure you update the model checkpoint path when loading the model. Upon reaching the last cell, you can run the cell and test it out. You can refer to our video for the demo.  
+To run the real-time run all the cells till the last one. Please ensure you update the model checkpoint path when loading the model. Upon reaching the last cell, you can run the cell and test it out. 
+
+You can refer to our presention here: https://www.youtube.com/watch?v=ZIbFgUNf4ZE
