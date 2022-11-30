@@ -1,10 +1,9 @@
 ## About
+<img width="377" alt="Screenshot 2022-11-30 at 11 54 12 PM" src="https://user-images.githubusercontent.com/78993046/204846069-d49c8e7f-65ee-449f-90d8-d49903175217.png">
 
-, links a SQL query to its Query Execution Plan (QEP) and Alternate Query Plans (AQPs), and explains why a certain join/scan algorithm was used in the final query plan. 
+SpeechSense, is a Speech Emotion Recognition (SER) engine that is able to identify emotions in sub-intervals of a speech. We are utilising a hybrid of LSTM with attention and CNN model for the real-time analysis of emotions using datasets: RAVDESS and TESS. 
 
-SQLink was built as part of the coursework for CZ4032: Database Systems Principles and is built on Python and PostgreSQL, and is optimized for usage on Windows machines. 
-
-In this assignment, we are given a problem of finding a shortest traverse path between two locations within a certain energy budget. This scenario often happens in the transportation where a shorter path is not necessarily more energy efficient (e.g., the road may be very bumpy or has heavy traffic)
+SpeechSense was built as part of the coursework for CZ4042: Deep Learning and Neural Networks and is trained using Tensorflow. 
 
 ## Model
 There are 2 python notebooks:
