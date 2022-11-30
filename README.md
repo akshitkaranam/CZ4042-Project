@@ -21,4 +21,4 @@ The data folder contains data essential for retraining the model. To retrain the
 
 To run the real-time run all the cells till the last one. Please ensure you update the model checkpoint path when loading the model. Upon reaching the last cell, you can run the cell and test it out. 
 
-For more information on the project overall you can check our presentation video here: https://www.youtube.com/watch?v=ZIbFgUNf4ZE
+For more information on the project you can check our presentation video here: https://www.youtube.com/watch?v=ZIbFgUNf4ZE or check out our report!
